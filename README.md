@@ -21,6 +21,7 @@ https://harmanboparai.github.io/Assignment-Challenge-Module-2/
 screenshot of the repo.png
 
 ##Functionality of the website
+
 Provides sample of potential employee's previous work,When their portfolio is loaded
  Click on the images of the applications then I am taken to that deployed application
 link to the section about their work then the UI scrolls to a section with titled images of the developer's applications
