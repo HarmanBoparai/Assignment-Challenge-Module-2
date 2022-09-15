@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 https://harmanboparai.github.io/Assignment-Challenge-Module-2/
-screenshot of the repo.png
+screenshot of the repo.png(https://github.com/HarmanBoparai/Assignment-Challenge-Module-2/blob/main/screenshot%20of%20the%20repo.png)
 
 ##Functionality of the website
 
