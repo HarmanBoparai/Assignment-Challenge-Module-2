@@ -17,8 +17,8 @@ So that the samples of their work can be reviewed  and assessed in order to acce
 N/A
 
 ## Usage
-https://harmanboparai.github.io/Assignment-Challenge-Module-2/
-screenshot of the repo.png(https://github.com/HarmanBoparai/Assignment-Challenge-Module-2/blob/main/screenshot%20of%20the%20repo.png)
+https://harmanboparai.github.io/Portfolio/
+
 
 ##Functionality of the website
 
